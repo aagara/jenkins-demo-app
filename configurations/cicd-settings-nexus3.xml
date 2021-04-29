@@ -2,13 +2,13 @@
   <servers>
      <server>
         <id>nexus</id>
-        <username>deployment</username>
-        <password>deployment123</password>
+        <username>admin</username>
+        <password>PassW0rd</password>
      </server>
      <server>
         <id>nexus3</id>
         <username>admin</username>
-        <password>admin123</password>
+        <password>PassW0rd</password>
      </server>
   </servers>
 </settings>
